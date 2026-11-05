@@ -6,7 +6,7 @@
 ## Experience
 
 ### Computer Support Specialist
-**Aug 2026 – Oct 2026** · Temporary Assignment · Onsite, United States
+**Aug 2026 – Oct 2026** · Temporary Assignment University of Washington School of Dentistry · Onsite, United States
 
 - Responded to help desk tickets via ServiceNow
 - Handled walk-in support requests and phone calls
